@@ -1,4 +1,4 @@
-from Boletin9_CLASES_OBJETOS.Ejercicio_2.Consumo import pedirdatosusuario
+from CLASES_OBJETOS.Ejercicio_2.Consumo import pedirdatosusuario
 from Consumo import Consumo
 
 if __name__ == '__main__':
